@@ -12,3 +12,18 @@ C:\Users\matts\Desktop\Projektuppgift januaro\ProjektuppgiftGIK299\Projektuppgif
 C:\Users\matts\Desktop\Projektuppgift januaro\ProjektuppgiftGIK299\ProjektuppgiftGIK299\obj\Debug\net6.0\ProjektuppgiftGIK299.pdb
 C:\Users\matts\Desktop\Projektuppgift januaro\ProjektuppgiftGIK299\ProjektuppgiftGIK299\obj\Debug\net6.0\ProjektuppgiftGIK299.genruntimeconfig.cache
 C:\Users\matts\Desktop\Projektuppgift januaro\ProjektuppgiftGIK299\ProjektuppgiftGIK299\obj\Debug\net6.0\ref\ProjektuppgiftGIK299.dll
+C:\Users\Mikael\Documents\Coding\C#\ProjektuppgiftGIK299\ProjektuppgiftGIK299\bin\Debug\net6.0\ProjektuppgiftGIK299.exe
+C:\Users\Mikael\Documents\Coding\C#\ProjektuppgiftGIK299\ProjektuppgiftGIK299\bin\Debug\net6.0\ProjektuppgiftGIK299.deps.json
+C:\Users\Mikael\Documents\Coding\C#\ProjektuppgiftGIK299\ProjektuppgiftGIK299\bin\Debug\net6.0\ProjektuppgiftGIK299.runtimeconfig.json
+C:\Users\Mikael\Documents\Coding\C#\ProjektuppgiftGIK299\ProjektuppgiftGIK299\bin\Debug\net6.0\ProjektuppgiftGIK299.dll
+C:\Users\Mikael\Documents\Coding\C#\ProjektuppgiftGIK299\ProjektuppgiftGIK299\bin\Debug\net6.0\ProjektuppgiftGIK299.pdb
+C:\Users\Mikael\Documents\Coding\C#\ProjektuppgiftGIK299\ProjektuppgiftGIK299\obj\Debug\net6.0\ProjektuppgiftGIK299.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mikael\Documents\Coding\C#\ProjektuppgiftGIK299\ProjektuppgiftGIK299\obj\Debug\net6.0\ProjektuppgiftGIK299.AssemblyInfoInputs.cache
+C:\Users\Mikael\Documents\Coding\C#\ProjektuppgiftGIK299\ProjektuppgiftGIK299\obj\Debug\net6.0\ProjektuppgiftGIK299.AssemblyInfo.cs
+C:\Users\Mikael\Documents\Coding\C#\ProjektuppgiftGIK299\ProjektuppgiftGIK299\obj\Debug\net6.0\ProjektuppgiftGIK299.csproj.CoreCompileInputs.cache
+C:\Users\Mikael\Documents\Coding\C#\ProjektuppgiftGIK299\ProjektuppgiftGIK299\obj\Debug\net6.0\ProjektuppgiftGIK299.sourcelink.json
+C:\Users\Mikael\Documents\Coding\C#\ProjektuppgiftGIK299\ProjektuppgiftGIK299\obj\Debug\net6.0\ProjektuppgiftGIK299.dll
+C:\Users\Mikael\Documents\Coding\C#\ProjektuppgiftGIK299\ProjektuppgiftGIK299\obj\Debug\net6.0\refint\ProjektuppgiftGIK299.dll
+C:\Users\Mikael\Documents\Coding\C#\ProjektuppgiftGIK299\ProjektuppgiftGIK299\obj\Debug\net6.0\ProjektuppgiftGIK299.pdb
+C:\Users\Mikael\Documents\Coding\C#\ProjektuppgiftGIK299\ProjektuppgiftGIK299\obj\Debug\net6.0\ProjektuppgiftGIK299.genruntimeconfig.cache
+C:\Users\Mikael\Documents\Coding\C#\ProjektuppgiftGIK299\ProjektuppgiftGIK299\obj\Debug\net6.0\ref\ProjektuppgiftGIK299.dll

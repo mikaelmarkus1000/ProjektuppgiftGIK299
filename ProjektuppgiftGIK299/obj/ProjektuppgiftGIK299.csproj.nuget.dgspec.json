@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\matts\\Desktop\\Projektuppgift januaro\\ProjektuppgiftGIK299\\ProjektuppgiftGIK299\\ProjektuppgiftGIK299.csproj": {}
+    "C:\\Users\\Mikael\\Documents\\Coding\\C#\\ProjektuppgiftGIK299\\ProjektuppgiftGIK299\\ProjektuppgiftGIK299.csproj": {}
   },
   "projects": {
-    "C:\\Users\\matts\\Desktop\\Projektuppgift januaro\\ProjektuppgiftGIK299\\ProjektuppgiftGIK299\\ProjektuppgiftGIK299.csproj": {
+    "C:\\Users\\Mikael\\Documents\\Coding\\C#\\ProjektuppgiftGIK299\\ProjektuppgiftGIK299\\ProjektuppgiftGIK299.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\matts\\Desktop\\Projektuppgift januaro\\ProjektuppgiftGIK299\\ProjektuppgiftGIK299\\ProjektuppgiftGIK299.csproj",
+        "projectUniqueName": "C:\\Users\\Mikael\\Documents\\Coding\\C#\\ProjektuppgiftGIK299\\ProjektuppgiftGIK299\\ProjektuppgiftGIK299.csproj",
         "projectName": "ProjektuppgiftGIK299",
-        "projectPath": "C:\\Users\\matts\\Desktop\\Projektuppgift januaro\\ProjektuppgiftGIK299\\ProjektuppgiftGIK299\\ProjektuppgiftGIK299.csproj",
-        "packagesPath": "C:\\Users\\matts\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\matts\\Desktop\\Projektuppgift januaro\\ProjektuppgiftGIK299\\ProjektuppgiftGIK299\\obj\\",
+        "projectPath": "C:\\Users\\Mikael\\Documents\\Coding\\C#\\ProjektuppgiftGIK299\\ProjektuppgiftGIK299\\ProjektuppgiftGIK299.csproj",
+        "packagesPath": "C:\\Users\\Mikael\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Mikael\\Documents\\Coding\\C#\\ProjektuppgiftGIK299\\ProjektuppgiftGIK299\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\matts\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Mikael\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -26,7 +26,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -60,7 +59,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }
