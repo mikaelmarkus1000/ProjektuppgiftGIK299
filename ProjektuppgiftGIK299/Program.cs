@@ -313,7 +313,7 @@ namespace ProjektUppgiftGIK299
                                 try
                                 {
 
-                                    Console.WriteLine("Skriv in antal meter: ");
+                                    Console.WriteLine("Skriv in antal kilometer: ");
                                     double kilometers4 = double.Parse(Console.ReadLine());
                                     LengthConverter lengthConverter10 = new LengthConverter();
                                     double meters6 = lengthConverter10.KilometersToMeters(kilometers4);
