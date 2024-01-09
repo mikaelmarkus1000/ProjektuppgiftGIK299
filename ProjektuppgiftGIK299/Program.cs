@@ -10,7 +10,10 @@ namespace ProjektUppgiftGIK299
 
             while (true)
             {
-
+                Console.WriteLine("Välkommen till konverteraren!");
+                Console.WriteLine("---------------------------------------");
+                Console.WriteLine("Var god och välj ett konveteringsval.");
+                Console.WriteLine("---------------------------------------");
                 Console.WriteLine("Meny");
                 Console.WriteLine("1. Längd");
                 Console.WriteLine("2. Vikt");
