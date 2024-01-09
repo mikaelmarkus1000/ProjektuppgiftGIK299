@@ -340,13 +340,17 @@ namespace ProjektUppgiftGIK299
 
 
                             case "11":
-                                return;
+                                Environment.Exit(0);
                                 break;
                             default:
                                 Console.WriteLine("Felaktig inmatning, försök igen.");
                                 break;
                         }
                         break;
+
+
+
+
                     case "2":
                         Console.WriteLine("Vilka viktenheter vill du konvertera?");
                         Console.WriteLine("1. Pund till uns");
