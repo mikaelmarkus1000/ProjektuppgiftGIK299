@@ -1,1 +1,5 @@
 2024-01-05 14:28:17:  3,00 fot är 1,00 yard.
+2024-01-11 10:44:45:  5,00 kilogram är 11,02 pund.
+2024-01-11 12:22:11:  0,00  grader Fahrenheit är  -17,78 grader Celsius.
+2024-01-11 13:18:43:  5,00 mile är 8,05 kilometer.
+2024-01-11 16:49:38: Error - Input string was not in a correct format.

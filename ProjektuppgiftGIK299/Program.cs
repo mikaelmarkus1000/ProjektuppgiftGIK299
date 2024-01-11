@@ -467,8 +467,9 @@ namespace ProjektUppgiftGIK299
                                     string result = $" {kilograms2:F2} kilogram är {pounds4:F2} pund.";
 
                                     // Skriv ut resultatet till konsolen
+                                    Console.WriteLine("======================================="); 
                                     Console.WriteLine(result);
-
+                                    Console.WriteLine("=======================================");
                                     // Skriv ut resultatet till en fil
                                     string filePath = "conversion_log.txt";
                                     File.AppendAllText(filePath, $"{DateTime.Now}: {result}{Environment.NewLine}");
@@ -517,7 +518,9 @@ namespace ProjektUppgiftGIK299
                                     double fahrenheit = temperatureConverter.CelsiusToFahrenheit(celsius);
                                     string result = $" {celsius:F2}  grader Celsius är  {fahrenheit:F2} grader Fahrenheit.";
                                     // Skriv ut resultatet till konsolen 
+                                    Console.WriteLine("=======================================");
                                     Console.WriteLine(result);
+                                    Console.WriteLine("=======================================");
                                     // Skriv ut resultatet till filen med tidsstämpel
                                     string filePath = "conversion_logs.txt";
                                     File.AppendAllText(filePath, $"{DateTime.Now}: {result}{Environment.NewLine}");
@@ -543,7 +546,9 @@ namespace ProjektUppgiftGIK299
                                     string result = $" {fahrenheit2:F2}  grader Fahrenheit är  {celsius2:F2} grader Celsius.";
 
                                     // Skriv ut resultatet till konsolen
+                                    Console.WriteLine("=======================================");
                                     Console.WriteLine(result);
+                                    Console.WriteLine("=======================================");
 
                                     // Skriv ut resultatet till filen med tidsstämpel
                                     string filePath = "conversion_log.txt";
@@ -635,11 +640,7 @@ namespace ProjektUppgiftGIK299
                         break;
 
                 }
-
-
             }
-
-
 
         }
     }

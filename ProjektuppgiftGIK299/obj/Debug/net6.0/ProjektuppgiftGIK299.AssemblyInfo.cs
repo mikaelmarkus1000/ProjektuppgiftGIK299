@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ProjektuppgiftGIK299")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+12bbef31538c289be55810b8156995c423505bb8")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4dcd550ccf545dea269a24cfe556e9cc97b00647")]
 [assembly: System.Reflection.AssemblyProductAttribute("ProjektuppgiftGIK299")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ProjektuppgiftGIK299")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
